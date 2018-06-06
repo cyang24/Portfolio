@@ -1,0 +1,21 @@
+body {
+    margin-top: 80px;
+}
+.jumbotron {
+    text-align: center;
+    color: white;
+    background:url(images/bw_blog-4.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center 89%;
+    
+}
+
+nav {
+    font-size: 12px;
+}
+
+.thumbnail {
+    margin-bottom: 18px;
+    
+}
